@@ -89,7 +89,7 @@ Sets a new value for the specified target. The `[target]` synonyms are identical
   - `trickle_k`: `1~`. Trickle algorithm redundancy parameter (*Only supported in the root folder version*).
 
 ### `tree`
-Shows the current routing topology (DODAG) based on parent IDs.
+Shows the current routing topology (DODAG) based on parent IDs. (*Not supported in the ver1 folder*)
 - Note: This tree topology is dynamically generated and updated only when report packets are received from sensor nodes.
 
 ### `help [command]`
