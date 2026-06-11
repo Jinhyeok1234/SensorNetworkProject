@@ -1,0 +1,3 @@
+COMPONENT=WSNAppC
+TINYOS_ROOT_DIR?=$(TOSROOT)
+include $(TINYOS_ROOT_DIR)/Makefile.include
